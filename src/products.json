@@ -1,0 +1,3427 @@
+{
+  "men": {
+    "category": {
+      "sweaters": [
+        {
+          "id": "1",
+          "name": "Heavyweight Zip Hoodie",
+          "price": {
+            "original": 89.95,
+            "discounted": 71.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Army Jacket Green",
+              "hex": "#7D5728",
+              "images": {
+                "front": "/products-images/men/sweaters/1-front-green.png",
+                "back": "/products-images/men/sweaters/1-back-green.png",
+                "zoom": "/products-images/men/sweaters/1-zoom-green.png",
+                "flat": "/products-images/men/sweaters/1-flat-green.png"
+              }
+            },
+            {
+              "name": "Wispy Mauve",
+              "hex": "#C18A8F",
+              "images": {
+                "front": "/products-images/men/sweaters/1-front-auve.png",
+                "back": "/products-images/men/sweaters/1-back-auve.png",
+                "zoom": "/products-images/men/sweaters/1-zoom-auve.png",
+                "flat": "/products-images/men/sweaters/1-flat-auve.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Oversized. Fits loose on the body.",
+              "For a Classic fit, go down one to two sizes.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": [
+              "86% Cotton, 14% Recycled Polyster.",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "VintageSoft Hoodie",
+          "price": {
+            "original": 58.95,
+            "discounted": 32.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Wicker",
+              "hex": "#C5AB96",
+              "images": {
+                "front": "/products-images/men/sweaters/2-front-wicker.png",
+                "back": "/products-images/men/sweaters/2-back-wicker.png",
+                "zoom": "/products-images/men/sweaters/2-zoom-wicker.png",
+                "flat": "/products-images/men/sweaters/2-flat-wicker.png"
+              }
+            },
+            {
+              "name": "Blue",
+              "hex": "#3360B8",
+              "images": {
+                "front": "/products-images/men/sweaters/2-front-blue.png",
+                "back": "/products-images/men/sweaters/2-back-blue.png",
+                "zoom": "/products-images/men/sweaters/2-zoom-blue.png",
+                "flat": "/products-images/men/sweaters/2-flat-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Oversized. Fits loose on the body.",
+              "For a Classic fit, go down one to two sizes.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": [
+              "86% Cotton, 14% Recycled Polyster.",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "Heavyweight Crop Hoodie",
+          "price": {
+            "original": 49.95,
+            "discounted": 63.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Moonless Night",
+              "hex": "#605550",
+              "images": {
+                "front": "/products-images/men/sweaters/3-front-night.png",
+                "back": "/products-images/men/sweaters/3-back-night.png",
+                "zoom": "/products-images/men/sweaters/3-zoom-night.png",
+                "flat": "/products-images/men/sweaters/3-flat-night.png"
+              }
+            },
+            {
+              "name": "New Classic Navy",
+              "hex": "#39394D",
+              "images": {
+                "front": "/products-images/men/sweaters/3-front-navy.png",
+                "back": "/products-images/men/sweaters/3-back-navy.png",
+                "zoom": "/products-images/men/sweaters/3-zoom-navy.png",
+                "flat": "/products-images/men/sweaters/3-flat-navy.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Oversized. Fits loose on the body.",
+              "For a Classic fit, go down one to two sizes.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": [
+              "86% Cotton, 14% Recycled Polyster.",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "4",
+          "name": "Heavyweight Relaxed Sweatpants",
+          "price": {
+            "original": 79.95,
+            "discounted": 63.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Grey Heather",
+              "hex": "#C6C6C6",
+              "images": {
+                "front": "/products-images/men/sweaters/4-front-grey.png",
+                "back": "/products-images/men/sweaters/4-back-grey.png",
+                "zoom": "/products-images/men/sweaters/4-zoom-grey.png",
+                "flat": "/products-images/men/sweaters/4-flat-grey.png"
+              }
+            },
+            {
+              "name": "Navy Uniform",
+              "hex": "#242541",
+              "images": {
+                "front": "/products-images/men/sweaters/4-front-navy.png",
+                "back": "/products-images/men/sweaters/4-back-navy.png",
+                "zoom": "/products-images/men/sweaters/4-zoom-navy.png",
+                "flat": "/products-images/men/sweaters/4-flat-navy.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Oversized. Fits loose on the body.",
+              "For a Classic fit, go down one to two sizes.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": [
+              "86% Cotton, 14% Recycled Polyster.",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "5",
+          "name": "Heavyweight Relaxed Sweatpants",
+          "price": {
+            "original": 79.95,
+            "discounted": 63.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Dark Maroon",
+              "hex": "#774350",
+              "images": {
+                "front": "/products-images/men/sweaters/5-front-maroon.png",
+                "back": "/products-images/men/sweaters/5-back-maroon.png",
+                "zoom": "/products-images/men/sweaters/5-zoom-maroon.png",
+                "flat": "/products-images/men/sweaters/5-flat-maroon.png"
+              }
+            },
+            {
+              "name": "Ground",
+              "hex": "#34211A",
+              "images": {
+                "front": "/products-images/men/sweaters/5-front-ground.png",
+                "back": "/products-images/men/sweaters/5-back-groun.png",
+                "zoom": "/products-images/men/sweaters/5-zoom-groun.png",
+                "flat": "/products-images/men/sweaters/5-flat-ground.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Oversized. Fits loose on the body.",
+              "For a Classic fit, go down one to two sizes.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": [
+              "86% Cotton, 14% Recycled Polyster.",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "6",
+          "name": "Heavyweight Oversized Hoodie",
+          "price": {
+            "original": 79.95,
+            "discounted": 55.0,
+            "discount_percent": 33,
+            "discount_text": "33% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "True Black",
+              "hex": "#19191B",
+              "images": {
+                "front": "/products-images/men/sweaters/6-front-black.png",
+                "back": "/products-images/men/sweaters/6-back-black.png",
+                "zoom": "/products-images/men/sweaters/6-zoom-black.png",
+                "flat": "/products-images/men/sweaters/6-flat-black.png"
+              }
+            },
+            {
+              "name": "Palomino Brown",
+              "hex": "#B18049",
+              "images": {
+                "front": "/products-images/men/sweaters/6-front-brown.png",
+                "back": "/products-images/men/sweaters/6-back-brown.png",
+                "zoom": "/products-images/men/sweaters/6-zoom-brown.png",
+                "flat": "/products-images/men/sweaters/6-flat-brown.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Oversized. Fits loose on the body.",
+              "For a Classic fit, go down one to two sizes.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": [
+              "86% Cotton, 14% Recycled Polyster.",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "7",
+          "name": "VintageSoft Zip Hoodie",
+          "price": {
+            "original": 59.95,
+            "discounted": 41.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Ripe Olive",
+              "hex": "#534328",
+              "images": {
+                "front": "/products-images/men/sweaters/7-front-olive.png",
+                "back": "/products-images/men/sweaters/7-back-olive.png",
+                "zoom": "/products-images/men/sweaters/7-zoom-olive.png",
+                "flat": "/products-images/men/sweaters/7-flat-olive.png"
+              }
+            },
+            {
+              "name": "Tapestry Navy Blue",
+              "hex": "#0F1120",
+              "images": {
+                "front": "/products-images/men/sweaters/7-front-blue.png",
+                "back": "/products-images/men/sweaters/7-back-blue.png",
+                "zoom": "/products-images/men/sweaters/7-zoom-blue.png",
+                "flat": "/products-images/men/sweaters/7-flat-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Oversized. Fits loose on the body.",
+              "For a Classic fit, go down one to two sizes.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": [
+              "86% Cotton, 14% Recycled Polyster.",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "8",
+          "name": "VintageSoft Zip Hoodie",
+          "price": {
+            "original": 59.95,
+            "discounted": 41.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Light Heather Gray",
+              "hex": "#C7C7C9",
+              "images": {
+                "front": "/products-images/men/sweaters/8-front-grey.png",
+                "back": "/products-images/men/sweaters/8-back-grey.png",
+                "zoom": "/products-images/men/sweaters/8-zoom-grey.png",
+                "flat": "/products-images/men/sweaters/8-flat-grey.png"
+              }
+            },
+            {
+              "name": "Wicker",
+              "hex": "#D8C6B0",
+              "images": {
+                "front": "/products-images/men/sweaters/8-front-wicker.png",
+                "back": "/products-images/men/sweaters/8-back-wicker.png",
+                "zoom": "/products-images/men/sweaters/8-zoom-wicker.png",
+                "flat": "/products-images/men/sweaters/8-flat-wicker.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Oversized. Fits loose on the body.",
+              "For a Classic fit, go down one to two sizes.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": [
+              "86% Cotton, 14% Recycled Polyster.",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "9",
+          "name": "Heavyweight Oversized Sweatshirt",
+          "price": {
+            "original": 69.95,
+            "discounted": 55.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Navy Uniform",
+              "hex": "#20223B",
+              "images": {
+                "front": "/products-images/men/sweaters/9-front-navy.png",
+                "back": "/products-images/men/sweaters/9-back-navy.png",
+                "zoom": "/products-images/men/sweaters/9-zoom-navy.png",
+                "flat": "/products-images/men/sweaters/9-flat-navy.png"
+              }
+            },
+            {
+              "name": "Ground",
+              "hex": "#534039",
+              "images": {
+                "front": "/products-images/men/sweaters/9-front-ground.png",
+                "back": "/products-images/men/sweaters/9-back-ground.png",
+                "zoom": "/products-images/men/sweaters/9-zoom-ground.png",
+                "flat": "/products-images/men/sweaters/9-flat-ground.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Oversized. Fits loose on the body.",
+              "For a Classic fit, go down one to two sizes.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": [
+              "86% Cotton, 14% Recycled Polyster.",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        }
+      ],
+      "t-shirts": [
+        {
+          "id": "1",
+          "name": "Heavyweight Relaxed T-Shirt",
+          "price": {
+            "original": 39.95,
+            "discounted": 35.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Serene blue",
+              "hex": "#E5EBF7",
+              "images": {
+                "front": "/products-images/men/t-shirts/1-front-blue.png",
+                "back": "/products-images/men/t-shirts/1-back-blue.png",
+                "zoom": "/products-images/men/t-shirts/1-zoom-blue.png",
+                "flat": "/products-images/men/t-shirts/1-flat-blue.png"
+              }
+            },
+            {
+              "name": "Tuscan Red",
+              "hex": "#733244",
+              "images": {
+                "front": "/products-images/men/t-shirts/1-front-red.png",
+                "back": "/products-images/men/t-shirts/1-back-red.png",
+                "zoom": "/products-images/men/t-shirts/1-zoom-red.png",
+                "flat": "/products-images/men/t-shirts/1-flat-red.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Relaxed. A straight & easy fit with a relaxed sleeve.",
+              "For a Classic fit, go down one size.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": ["100% Cotton.", "Machine wash.", "Imported."]
+          }
+        },
+        {
+          "id": "2",
+          "name": "Heavyweight Crop T-Shirt",
+          "price": {
+            "original": 45.95,
+            "discounted": 40.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "True black",
+              "hex": "#0F1120",
+              "images": {
+                "front": "/products-images/men/t-shirts/2-front-black.png",
+                "back": "/products-images/men/t-shirts/2-back-black.png",
+                "zoom": "/products-images/men/t-shirts/2-zoom-black.png",
+                "flat": "/products-images/men/t-shirts/2-flat-black.png"
+              }
+            },
+            {
+              "name": "White",
+              "hex": "#F6F7FB",
+              "images": {
+                "front": "/products-images/men/t-shirts/2-front-white.png",
+                "back": "/products-images/men/t-shirts/2-back-white.png",
+                "zoom": "/products-images/men/t-shirts/2-zoom-white.png",
+                "flat": "/products-images/men/t-shirts/2-flat-white.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Relaxed. A straight & easy fit with a relaxed sleeve.",
+              "For a Classic fit, go down one size.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": ["100% Cotton.", "Machine wash.", "Imported."]
+          }
+        },
+        {
+          "id": "3",
+          "name": "Organic Cotton Pocket T-Shirt",
+          "price": {
+            "original": 24.95,
+            "discounted": 12.0,
+            "discount_percent": 50,
+            "discount_text": "50% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Pink Stripe",
+              "hex": "#FBD6EB",
+              "images": {
+                "front": "/products-images/men/t-shirts/3-front-pink.png",
+                "back": "/products-images/men/t-shirts/3-back-pink.png",
+                "zoom": "/products-images/men/t-shirts/3-zoom-pink.png",
+                "flat": "/products-images/men/t-shirts/3-flat-pink.png"
+              }
+            },
+            {
+              "name": "True Black",
+              "hex": "#0F1120",
+              "images": {
+                "front": "/products-images/men/t-shirts/3-front-black.png",
+                "back": "/products-images/men/t-shirts/3-back-black.png",
+                "zoom": "/products-images/men/t-shirts/3-zoom-black.png",
+                "flat": "/products-images/men/t-shirts/3-flat-black.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Relaxed. A straight & easy fit with a relaxed sleeve.",
+              "For a Classic fit, go down one size.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": ["100% Cotton.", "Machine wash.", "Imported."]
+          }
+        },
+        {
+          "id": "4",
+          "name": "Organic T-Shirt",
+          "price": {
+            "original": 29.95,
+            "discounted": 19.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Washed medium blue",
+              "hex": "#75A7CE",
+              "images": {
+                "front": "/products-images/men/t-shirts/4-front-blue.png",
+                "back": "/products-images/men/t-shirts/4-back-blue.png",
+                "zoom": "/products-images/men/t-shirts/4-zoom-blue.png",
+                "flat": "/products-images/men/t-shirts/4-flat-blue.png"
+              }
+            },
+            {
+              "name": "Purple",
+              "hex": "#A34E6D",
+              "images": {
+                "front": "/products-images/men/t-shirts/4-front-red.png",
+                "back": "/products-images/men/t-shirts/4-back-red.png",
+                "zoom": "/products-images/men/t-shirts/4-zoom-red.png",
+                "flat": "/products-images/men/t-shirts/4-flat-red.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Relaxed. A straight & easy fit with a relaxed sleeve.",
+              "For a Classic fit, go down one size.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": ["100% Cotton.", "Machine wash.", "Imported."]
+          }
+        },
+        {
+          "id": "5",
+          "name": "Over size T-Shirt",
+          "price": {
+            "original": 29.95,
+            "discounted": 14.0,
+            "discount_percent": 50,
+            "discount_text": "50% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "White",
+              "hex": "#F5F4F9",
+              "images": {
+                "front": "/products-images/men/t-shirts/5-front-white.png",
+                "back": "/products-images/men/t-shirts/5-back-white.png",
+                "zoom": "/products-images/men/t-shirts/5-zoom-white.png",
+                "flat": "/products-images/men/t-shirts/5-flat-white.png"
+              }
+            },
+            {
+              "name": "Chlorine blue",
+              "hex": "#C3ECFE",
+              "images": {
+                "front": "/products-images/men/t-shirts/5-front-blue.png",
+                "back": "/products-images/men/t-shirts/5-back-blue.png",
+                "zoom": "/products-images/men/t-shirts/5-zoom-blue.png",
+                "flat": "/products-images/men/t-shirts/5-flat-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Relaxed. A straight & easy fit with a relaxed sleeve.",
+              "For a Classic fit, go down one size.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": ["100% Cotton.", "Machine wash.", "Imported."]
+          }
+        },
+        {
+          "id": "6",
+          "name": "Pique Relaxed T-Shirt",
+          "price": {
+            "original": 59.95,
+            "discounted": 29.0,
+            "discount_percent": 50,
+            "discount_text": "50% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Blue bandana print",
+              "hex": "#566590",
+              "images": {
+                "front": "/products-images/men/t-shirts/6-front-blue.png",
+                "back": "/products-images/men/t-shirts/6-back-blue.png",
+                "zoom": "/products-images/men/t-shirts/6-zoom-blue.png",
+                "flat": "/products-images/men/t-shirts/6-flat-blue.png"
+              }
+            },
+            {
+              "name": "Black",
+              "hex": "#49413F",
+              "images": {
+                "front": "/products-images/men/t-shirts/6-front-black.png",
+                "back": "/products-images/men/t-shirts/6-back-black.png",
+                "zoom": "/products-images/men/t-shirts/6-zoom-black.png",
+                "flat": "/products-images/men/t-shirts/6-flat-black.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Fit: Relaxed. A straight & easy fit with a relaxed sleeve.",
+              "For a Classic fit, go down one size.",
+              "Hits at the hip.",
+              "Models are 6′1–6′2 (185 cm–188 cm) with a 31 (79 cm) waist & 32–33 (81 cm–84 cm) inseam & are wearing Orix size M."
+            ],
+            "fabric_and_care": ["100% Cotton.", "Machine wash.", "Imported."]
+          }
+        }
+      ],
+      "pants": [
+        {
+          "id": "1",
+          "name": "Modern '90s Loose Khakis",
+          "price": {
+            "original": 69.95,
+            "discounted": 48.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Moonless Night",
+              "hex": "#242424",
+              "images": {
+                "front": "/products-images/men/pants/1-front-black.png",
+                "back": "/products-images/men/pants/1-back-black.png",
+                "zoom": "/products-images/men/pants/1-zoom-black.png",
+                "flat": "/products-images/men/pants/1-flat-black.png"
+              }
+            },
+            {
+              "name": "Moonstone",
+              "hex": "#CCBAAC",
+              "images": {
+                "front": "/products-images/men/pants/1-front-white.png",
+                "back": "/products-images/men/pants/1-back-white.png",
+                "zoom": "/products-images/men/pants/1-zoom-white.png",
+                "flat": "/products-images/men/pants/1-flat-white.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "Modern Baggy Khakis",
+          "price": {
+            "original": 69.95,
+            "discounted": 0,
+            "discount_percent": 0,
+            "discount_text": "0% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Olive Green",
+              "hex": "#594B2F",
+              "images": {
+                "front": "/products-images/men/pants/2-front-green.png",
+                "back": "/products-images/men/pants/2-back-green.png",
+                "zoom": "/products-images/men/pants/2-zoom-green.png",
+                "flat": "/products-images/men/pants/2-flat-green.png"
+              }
+            },
+            {
+              "name": "Brown",
+              "hex": "#37221B",
+              "images": {
+                "front": "/products-images/men/pants/2-front-brown.png",
+                "back": "/products-images/men/pants/2-back-brown.png",
+                "zoom": "/products-images/men/pants/2-zoom-brown.png",
+                "flat": "/products-images/men/pants/2-flat-brown.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "Relaxed Straight Utility Khakis",
+          "price": {
+            "original": 79.95,
+            "discounted": 0,
+            "discount_percent": 0,
+            "discount_text": "0% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Regular grey",
+              "hex": "#E5DCD5",
+              "images": {
+                "front": "/products-images/men/pants/3-front-white.png",
+                "back": "/products-images/men/pants/3-back-white.png",
+                "zoom": "/products-images/men/pants/3-zoom-white.png",
+                "flat": "/products-images/men/pants/3-flat-white.png"
+              }
+            },
+            {
+              "name": "Black",
+              "hex": "#111111",
+              "images": {
+                "front": "/products-images/men/pants/3-front-black.png",
+                "back": "/products-images/men/pants/3-back-black.png",
+                "zoom": "/products-images/men/pants/3-zoom-black.png",
+                "flat": "/products-images/men/pants/3-flat-black.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "4",
+          "name": "Linen-Cotton '90s Loose Pleated Khakis",
+          "price": {
+            "original": 79.95,
+            "discounted": 47.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Oatmeal Heather",
+              "hex": "#E4D9C9",
+              "images": {
+                "front": "/products-images/men/pants/4-front-white.png",
+                "back": "/products-images/men/pants/4-back-white.png",
+                "zoom": "/products-images/men/pants/4-zoom-white.png",
+                "flat": "/products-images/men/pants/4-flat-white.png"
+              }
+            },
+            {
+              "name": "Ground",
+              "hex": "#6E5348",
+              "images": {
+                "front": "/products-images/men/pants/4-front-black.png",
+                "back": "/products-images/men/pants/4-back-black.png",
+                "zoom": "/products-images/men/pants/4-zoom-black.png",
+                "flat": "/products-images/men/pants/4-flat-black.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "5",
+          "name": "Modern Khakis in Baggy Fit",
+          "price": {
+            "original": 69.95,
+            "discounted": 48.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "New Classic Navy",
+              "hex": "#1F1F2B",
+              "images": {
+                "front": "/products-images/men/pants/5-front-black.png",
+                "back": "/products-images/men/pants/5-back-black.png",
+                "zoom": "/products-images/men/pants/5-zoom-black.png",
+                "flat": "/products-images/men/pants/5-flat-black.png"
+              }
+            },
+            {
+              "name": "Iconic Khaki",
+              "hex": "#C8A680",
+              "images": {
+                "front": "/products-images/men/pants/5-front-white.png",
+                "back": "/products-images/men/pants/5-back-white.png",
+                "zoom": "/products-images/men/pants/5-zoom-white.png",
+                "flat": "/products-images/men/pants/5-flat-white.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "6",
+          "name": "365 Relaxed Pleated Trousers",
+          "price": {
+            "original": 79.95,
+            "discounted": 59.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "New Classic Navy",
+              "hex": "#1F1F2B",
+              "images": {
+                "front": "/products-images/men/pants/6-front-navy.png",
+                "back": "/products-images/men/pants/6-back-navy.png",
+                "zoom": "/products-images/men/pants/6-zoom-navy.png",
+                "flat": "/products-images/men/pants/6-flat-navy.png"
+              }
+            },
+            {
+              "name": "True Black",
+              "hex": "#1A1A18",
+              "images": {
+                "front": "/products-images/men/pants/6-front-black.png",
+                "back": "/products-images/men/pants/6-back-black.png",
+                "zoom": "/products-images/men/pants/6-zoom-black.png",
+                "flat": "/products-images/men/pants/6-flat-black.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "s3-1",
+          "name": "Herringbone Linen-Cotton Suit Pant",
+          "price": {
+            "original": 220.0,
+            "discount_percent": 20
+          },
+          "colors": [
+            {
+              "name": "Light Gray Herringbone",
+              "hex": "#C0BCB9",
+              "images": {
+                "front": "/slide3-images/products/s3-1/1.png",
+                "video": "/slide3-images/products/s3-1/2.mp4",
+                "back": "/slide3-images/products/s3-1/3.png",
+                "zoom": "/slide3-images/products/s3-1/4.png",
+                "flat": "/slide3-images/products/s3-1/5.png",
+                "side": "/slide3-images/products/s3-1/6.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Tailored Slim Fit: Mid-rise. Tapered slim leg.",
+              "Inseams: Short 29.5, Regular 31.5, Long 33.5",
+              "Model: Size 32, 6'2"
+            ],
+            "fabric_and_care": [
+              "Shell: 51% linen, 49% cotton.",
+              "Lining: 100% cotton.",
+              "Dry clean only.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "s3-3",
+          "name": "OrixFlex Essential Khakis in Straight Fit",
+          "price": {
+            "original": 35.99,
+            "discount_percent": 5
+          },
+          "colors": [
+            {
+              "name": "Soft Black",
+              "hex": "#343231",
+              "images": {
+                "front": "/slide3-images/products/s3-3/SoftBlack-1.png",
+                "back": "/slide3-images/products/s3-3/SoftBlack-2.png",
+                "side": "/slide3-images/products/s3-3/SoftBlack-4.png",
+                "zoom": "/slide3-images/products/s3-3/SoftBlack-5.png",
+                "flat": "/slide3-images/products/s3-3/SoftBlack-6.png"
+              }
+            },
+            {
+              "name": "New Brown",
+              "hex": "#764D1F",
+              "images": {
+                "front": "/slide3-images/products/s3-3/NewBrown-1.png",
+                "back": "/slide3-images/products/s3-3/NewBrown-2.png",
+                "side": "/slide3-images/products/s3-3/NewBrown-4.png",
+                "zoom": "/slide3-images/products/s3-3/NewBrown-5.png",
+                "flat": "/slide3-images/products/s3-3/NewBrown-6.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Styles engineered with stretch for a flexible fit that moves with you.",
+              "Mid rise.",
+              "Straight through the leg.",
+              "Straight leg opening.",
+              "Jordan is 6'2 with a 32 waist and 32 inseam is wearing a regular Orix Factory size 32x32."
+            ],
+            "fabric_and_care": [
+              "Soft Black: 99% Cotton, 1% Spandex.",
+              "Other Colors: 98% Cotton, 2% Spandex.",
+              "Machine wash warm. Tumble dry medium.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "s3-4",
+          "name": "OrixFlex Essential Straight Cargo Pants",
+          "price": {
+            "original": 41.99,
+            "discount_percent": 40
+          },
+          "colors": [
+            {
+              "name": "Bedrock Beige",
+              "hex": "#E6DCC9",
+              "images": {
+                "front": "/slide3-images/products/s3-4/BedrockBeige-1.png",
+                "back": "/slide3-images/products/s3-4/BedrockBeige-2.png",
+                "side": "/slide3-images/products/s3-4/BedrockBeige-4.png",
+                "zoom": "/slide3-images/products/s3-4/BedrockBeige-5.png",
+                "flat": "/slide3-images/products/s3-4/BedrockBeige-6.png"
+              }
+            },
+            {
+              "name": "Black Moonless Night",
+              "hex": "#302F32",
+              "images": {
+                "front": "/slide3-images/products/s3-4/BlackMoonlessNight-1.png",
+                "back": "/slide3-images/products/s3-4/BlackMoonlessNight-2.png",
+                "side": "/slide3-images/products/s3-4/BlackMoonlessNight-3.png",
+                "zoom": "/slide3-images/products/s3-4/BlackMoonlessNight-5.png",
+                "flat": "/slide3-images/products/s3-4/BlackMoonlessNight-6.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Sits at the waist.",
+              "Easy through the hip and thigh.",
+              "Straight leg."
+            ],
+            "fabric_and_care": [
+              "98% Cotton, 2% Spandex.",
+              "Machine wash cold. Tumble dry low.",
+              "Imported."
+            ]
+          }
+        }
+      ],
+      "jeans": [
+        {
+          "id": "1",
+          "name": "Canvas Baggy Trouser Jeans",
+          "price": {
+            "original": 79.95,
+            "discounted": 0,
+            "discount_percent": 0,
+            "discount_text": "0% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Medium Wash",
+              "hex": "#707F9A",
+              "images": {
+                "front": "/products-images/men/jeans/1-front-blue.png",
+                "back": "/products-images/men/jeans/1-back-blue.png",
+                "zoom": "/products-images/men/jeans/1-zoom-blue.png",
+                "flat": "/products-images/men/jeans/1-flat-blue.png"
+              }
+            },
+            {
+              "name": "Dark Indigo",
+              "hex": "#1B2942",
+              "images": {
+                "front": "/products-images/men/jeans/1-front-black.png",
+                "back": "/products-images/men/jeans/1-back-black.png",
+                "zoom": "/products-images/men/jeans/1-zoom-black.png",
+                "flat": "/products-images/men/jeans/1-flat-black.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "Relaxed Straight Trouser Jeans",
+          "price": {
+            "original": 69.95,
+            "discounted": 0,
+            "discount_percent": 0,
+            "discount_text": "0% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Moonless Night",
+              "hex": "#2D2D2D",
+              "images": {
+                "front": "/products-images/men/jeans/2-front-night.png",
+                "back": "/products-images/men/jeans/2-back-night.png",
+                "zoom": "/products-images/men/jeans/2-zoom-night.png",
+                "flat": "/products-images/men/jeans/2-flat-night.png"
+              }
+            },
+            {
+              "name": "Dark Wash",
+              "hex": "#15233E",
+              "images": {
+                "front": "/products-images/men/jeans/2-front-dark.png",
+                "back": "/products-images/men/jeans/2-back-dark.png",
+                "zoom": "/products-images/men/jeans/2-zoom-dark.png",
+                "flat": "/products-images/men/jeans/2-flat-dark.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "'90s Loose Jeans",
+          "price": {
+            "original": 79.95,
+            "discounted": 47,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Washed Black",
+              "hex": "#414141",
+              "images": {
+                "front": "/products-images/men/jeans/3-front-black.png",
+                "back": "/products-images/men/jeans/3-back-black.png",
+                "zoom": "/products-images/men/jeans/3-zoom-black.png",
+                "flat": "/products-images/men/jeans/3-flat-black.png"
+              }
+            },
+            {
+              "name": "Black Wash",
+              "hex": "#0C0C0C",
+              "images": {
+                "front": "/products-images/men/jeans/3-front-blackw.png",
+                "back": "/products-images/men/jeans/3-back-blackw.png",
+                "zoom": "/products-images/men/jeans/3-zoom-blackw.png",
+                "flat": "/products-images/men/jeans/3-flat-blackw.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "s2-5",
+          "name": "Baggy Jeans",
+          "price": {
+            "original": 48.99,
+            "discount_percent": 10
+          },
+          "colors": [
+            {
+              "name": "Light Wash",
+              "hex": "#78A1DF",
+              "images": {
+                "front": "/slide3-images/products/s3-5/LightWash-1.png",
+                "back": "/slide3-images/products/s3-5/LightWash-2.png",
+                "side": "/slide3-images/products/s3-5/LightWash-4.png",
+                "zoom": "/slide3-images/products/s3-5/LightWash-5.png",
+                "flat": "/slide3-images/products/s3-5/LightWash-6.png"
+              }
+            },
+            {
+              "name": "Dark Wash",
+              "hex": "#6482A5",
+              "images": {
+                "front": "/slide3-images/products/s3-5/DarkWash-1.png",
+                "back": "/slide3-images/products/s3-5/DarkWash-2.png",
+                "side": "/slide3-images/products/s3-5/DarkWash-4.png",
+                "zoom": "/slide3-images/products/s3-5/DarkWash-5.png",
+                "flat": "/slide3-images/products/s3-5/DarkWash-6.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Sits just below the hip.",
+              "Baggy through the hip and thigh.",
+              "Loose, tapered leg."
+            ],
+            "fabric_and_care": [
+              "95% Cotton, 5% Recycled Cotton.",
+              "Machine wash cold. Tumble dry low.",
+              "Imported."
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "women": {
+    "category": {
+      "dresses": [
+        {
+          "id": "1",
+          "name": "Flutter Sleeve Tie-Waist Mini Dress",
+          "price": {
+            "original": 54.95,
+            "discounted": 27,
+            "discount_percent": 50,
+            "discount_text": "50% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Pink Floral",
+              "hex": "#C52F7E",
+              "images": {
+                "front": "/products-images/women/dresses/1-front-pink.png",
+                "back": "/products-images/women/dresses/1-back-pink.png",
+                "zoom": "/products-images/women/dresses/1-zoom-pink.png",
+                "flat": "/products-images/women/dresses/1-flat-pink.png"
+              }
+            },
+            {
+              "name": "Black Ditsy Floral",
+              "hex": "#272121",
+              "images": {
+                "front": "/products-images/women/dresses/1-front-black.png",
+                "back": "/products-images/women/dresses/1-back-black.png",
+                "zoom": "/products-images/women/dresses/1-zoom-black.png",
+                "flat": "/products-images/women/dresses/1-flat-black.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "Linen-Blend Seamed Corset Midi Dress",
+          "price": {
+            "original": 128.0,
+            "discounted": 76,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Light Yellow",
+              "hex": "#FFEABD",
+              "images": {
+                "front": "/products-images/women/dresses/2-front-yellow.png",
+                "back": "/products-images/women/dresses/2-back-yellow.png",
+                "zoom": "/products-images/women/dresses/2-zoom-yellow.png",
+                "flat": "/products-images/women/dresses/2-flat-yellow.png"
+              }
+            },
+            {
+              "name": "Terra Brown",
+              "hex": "#40312C",
+              "images": {
+                "front": "/products-images/women/dresses/2-front-black.png",
+                "back": "/products-images/women/dresses/2-back-black.png",
+                "zoom": "/products-images/women/dresses/2-zoom-black.png",
+                "flat": "/products-images/women/dresses/2-flat-black.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "Button-Front Cami Maxi Dress",
+          "price": {
+            "original": 98.0,
+            "discounted": 0,
+            "discount_percent": 0,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Black & Brown Horse Print",
+              "hex": "#18171F",
+              "images": {
+                "front": "/products-images/women/dresses/3-front-black.png",
+                "back": "/products-images/women/dresses/3-back-black.png",
+                "zoom": "/products-images/women/dresses/3-zoom-black.png",
+                "flat": "/products-images/women/dresses/3-flat-black.png"
+              }
+            },
+            {
+              "name": "Red Plaid",
+              "hex": "#882F39",
+              "images": {
+                "front": "/products-images/women/dresses/3-front-red.png",
+                "back": "/products-images/women/dresses/3-back-red.png",
+                "zoom": "/products-images/women/dresses/3-zoom-red.png",
+                "flat": "/products-images/women/dresses/3-flat-red.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "4",
+          "name": "Lace-Trim Maxi Slip Dress",
+          "price": {
+            "original": 98.0,
+            "discounted": 62.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Wispy Pink Mauve",
+              "hex": "#D19CB6",
+              "images": {
+                "front": "/products-images/women/dresses/4-front-pink.png",
+                "back": "/products-images/women/dresses/4-back-pink.png",
+                "zoom": "/products-images/women/dresses/4-zoom-pink.png",
+                "flat": "/products-images/women/dresses/4-flat-pink.png"
+              }
+            },
+            {
+              "name": "Blue Print",
+              "hex": "#3B3B51",
+              "images": {
+                "front": "/products-images/women/dresses/4-front-blue.png",
+                "back": "/products-images/women/dresses/4-back-blue.png",
+                "zoom": "/products-images/women/dresses/4-zoom-blue.png",
+                "flat": "/products-images/women/dresses/4-flat-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "5",
+          "name": "OrixStudio Satin Slip Dress",
+          "price": {
+            "original": 158.0,
+            "discounted": 34.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Navy Blue Dot",
+              "hex": "#443F74",
+              "images": {
+                "front": "/products-images/women/dresses/5-front-blue.png",
+                "back": "/products-images/women/dresses/5-back-blue.png",
+                "zoom": "/products-images/women/dresses/5-zoom-blue.png",
+                "flat": "/products-images/women/dresses/5-flat-blue.png"
+              }
+            },
+            {
+              "name": "Bedrock Beige",
+              "hex": "#E9D4C6",
+              "images": {
+                "front": "/products-images/women/dresses/5-front-white.png",
+                "back": "/products-images/women/dresses/5-back-white.png",
+                "zoom": "/products-images/women/dresses/5-zoom-white.png",
+                "flat": "/products-images/women/dresses/5-flat-white.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "6",
+          "name": "Lace-Trim V-Neck Crepe Maxi Dress",
+          "price": {
+            "original": 118.0,
+            "discounted": 47.0,
+            "discount_percent": 60,
+            "discount_text": "60% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Multi color floral",
+              "hex": "#DEBBCD",
+              "images": {
+                "front": "/products-images/women/dresses/6-front-white.png",
+                "back": "/products-images/women/dresses/6-back-white.png",
+                "zoom": "/products-images/women/dresses/6-zoom-white.png",
+                "flat": "/products-images/women/dresses/6-flat-white.png"
+              }
+            },
+            {
+              "name": "Brown floral",
+              "hex": "#8A6E65",
+              "images": {
+                "front": "/products-images/women/dresses/6-front-brown.png",
+                "back": "/products-images/women/dresses/6-back-brown.png",
+                "zoom": "/products-images/women/dresses/6-zoom-brown.png",
+                "flat": "/products-images/women/dresses/6-flat-brown.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        }
+      ],
+      "t-shirts": [
+        {
+          "id": "1",
+          "name": "Modern Crewneck T-Shirt",
+          "price": {
+            "original": 24.0,
+            "discounted": 14.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Fresh White",
+              "hex": "#EDEDEF",
+              "images": {
+                "front": "/products-images/women/t-shirts/1-front-white.png",
+                "back": "/products-images/women/t-shirts/1-back-white.png",
+                "zoom": "/products-images/women/t-shirts/1-zoom-white.png",
+                "flat": "/products-images/women/t-shirts/1-flat-white.png"
+              }
+            },
+            {
+              "name": "Navy Blue",
+              "hex": "#1F253D",
+              "images": {
+                "front": "/products-images/women/t-shirts/1-front-blue.png",
+                "back": "/products-images/women/t-shirts/1-back-blue.png",
+                "zoom": "/products-images/women/t-shirts/1-zoom-blue.png",
+                "flat": "/products-images/women/t-shirts/1-flat-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "CloseKnit Jersey T-Shirt",
+          "price": {
+            "original": 24.0,
+            "discounted": 14.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Black & White Stripe",
+              "hex": "#161314",
+              "images": {
+                "front": "/products-images/women/t-shirts/2-front-black.png",
+                "back": "/products-images/women/t-shirts/2-back-black.png",
+                "zoom": "/products-images/women/t-shirts/2-zoom-black.png",
+                "flat": "/products-images/women/t-shirts/2-flat-black.png"
+              }
+            },
+            {
+              "name": "Wispy Mauve Pink",
+              "hex": "#EEC3D1",
+              "images": {
+                "front": "/products-images/women/t-shirts/2-front-pink.png",
+                "back": "/products-images/women/t-shirts/2-back-pink.png",
+                "zoom": "/products-images/women/t-shirts/2-zoom-pink.png",
+                "flat": "/products-images/women/t-shirts/2-flat-pink.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "Organic Cotton VintageSoft T-Shirt",
+          "price": {
+            "original": 24.0,
+            "discounted": 20.0,
+            "discount_percent": 0,
+            "discount_text": "0% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Navy Blue",
+              "hex": "#25293F",
+              "images": {
+                "front": "/products-images/women/t-shirts/3-front-blue.png",
+                "back": "/products-images/women/t-shirts/3-back-blue.png",
+                "zoom": "/products-images/women/t-shirts/3-zoom-blue.png",
+                "flat": "/products-images/women/t-shirts/3-flat-blue.png"
+              }
+            },
+            {
+              "name": "Tuscan Red",
+              "hex": "#52212F",
+              "images": {
+                "front": "/products-images/women/t-shirts/3-front-red.png",
+                "back": "/products-images/women/t-shirts/3-back-red.png",
+                "zoom": "/products-images/women/t-shirts/3-zoom-red.png",
+                "flat": "/products-images/women/t-shirts/3-flat-red.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        }
+      ],
+      "jeans": [
+        {
+          "id": "1",
+          "name": "Mid Rise UltraSoft Baggy Jeans",
+          "price": {
+            "original": 89.0,
+            "discounted": 62.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Washed indigo",
+              "hex": "#8DA7C9",
+              "images": {
+                "front": "/products-images/women/jeans/1-front-blue.png",
+                "back": "/products-images/women/jeans/1-back-blue.png",
+                "zoom": "/products-images/women/jeans/1-zoom-blue.png",
+                "flat": "/products-images/women/jeans/1-flat-blue.png"
+              }
+            },
+            {
+              "name": "Light Indigo Floral",
+              "hex": "#C7D8ED",
+              "images": {
+                "front": "/products-images/women/jeans/1-front-blueb.png",
+                "back": "/products-images/women/jeans/1-back-blueb.png",
+                "zoom": "/products-images/women/jeans/1-zoom-blueb.png",
+                "flat": "/products-images/women/jeans/1-flat-blueb.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "Mid Rise UltraSoft Baggy Jeans",
+          "price": {
+            "original": 89.0,
+            "discounted": 62.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Acid Wash",
+              "hex": "#C3D2DF",
+              "images": {
+                "front": "/products-images/women/jeans/2-front-white.png",
+                "back": "/products-images/women/jeans/2-back-white.png",
+                "zoom": "/products-images/women/jeans/2-zoom-white.png",
+                "flat": "/products-images/women/jeans/2-flat-white.png"
+              }
+            },
+            {
+              "name": "Side Stripe Light Wash",
+              "hex": "#BECDDA",
+              "images": {
+                "front": "/products-images/women/jeans/2-front-whitee.png",
+                "back": "/products-images/women/jeans/2-back-whitee.png",
+                "zoom": "/products-images/women/jeans/2-zoom-whitee.png",
+                "flat": "/products-images/women/jeans/2-flat-whitee.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": " Baggy Jeans",
+          "price": {
+            "original": 89.0,
+            "discounted": 69.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Optic White",
+              "hex": "#F2F1F6",
+              "images": {
+                "front": "/products-images/women/jeans/3-front-white.png",
+                "back": "/products-images/women/jeans/3-back-white.png",
+                "zoom": "/products-images/women/jeans/3-zoom-white.png",
+                "flat": "/products-images/women/jeans/3-flat-white.png"
+              }
+            },
+            {
+              "name": "Rose Mist Pink",
+              "hex": "#A9A6BB",
+              "images": {
+                "front": "/products-images/women/jeans/3-front-red.png",
+                "back": "/products-images/women/jeans/3-back-red.png",
+                "zoom": "/products-images/women/jeans/3-zoom-red.png",
+                "flat": "/products-images/women/jeans/3-flat-red.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "s3-2",
+          "name": "HIGH-RISE 90S STRAIGHT JEAN",
+          "price": {
+            "original": 120.0,
+            "discount_percent": 20
+          },
+          "colors": [
+            {
+              "name": "Dark Wash",
+              "hex": "#302F32",
+              "images": {
+                "front": "/slide3-images/products/s3-2/DarkWash-1.png",
+                "video": "/slide3-images/products/s3-2/DarkWash-2.mp4",
+                "back": "/slide3-images/products/s3-2/DarkWash-3.png",
+                "zoom": "/slide3-images/products/s3-2/DarkWash-4.png",
+                "side": "/slide3-images/products/s3-2/DarkWash-5.png",
+                "flat": "/slide3-images/products/s3-2/DarkWash-6.png"
+              }
+            },
+            {
+              "name": "Light Wash",
+              "hex": "#D6F0FC",
+              "images": {
+                "front": "/slide3-images/products/s3-2/LightWash-1.png",
+                "back": "/slide3-images/products/s3-2/LightWash-2.png",
+                "side": "/slide3-images/products/s3-2/LightWash-3.png",
+                "flat": "/slide3-images/products/s3-2/LightWash-4.png",
+                "zoom": "/slide3-images/products/s3-2/LightWash-5.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Model: Size 26, 5'10",
+              "Measurements (taken from size 6/28):",
+              "Front rise: 12",
+              "Leg opening: 16",
+              "Petite inseam: 28",
+              "Regular inseam: 30",
+              "Long inseam: 33"
+            ],
+            "fabric_and_care": [
+              "94% organic cotton, 5% recycled cotton, 1% elastane.",
+              "Machine wash cold, gentle cycle, tumble dry low, warm iron.",
+              "Organic: Made with 94% certified organic cotton.Imported."
+            ]
+          }
+        }
+      ],
+      "pants": [
+        {
+          "id": "1",
+          "name": " 365 High Rise Brushed Twill Pleated Trousers",
+          "price": {
+            "original": 89.0,
+            "discounted": 0,
+            "discount_percent": 0,
+            "discount_text": "0% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Black",
+              "hex": "#121214",
+              "images": {
+                "front": "/products-images/women/pants/1-front-black.png",
+                "back": "/products-images/women/pants/1-back-black.png",
+                "zoom": "/products-images/women/pants/1-zoom-black.png",
+                "flat": "/products-images/women/pants/1-flat-black.png"
+              }
+            },
+            {
+              "name": "Camel Hair Tan",
+              "hex": "#C49A84",
+              "images": {
+                "front": "/products-images/women/pants/1-front-white.png",
+                "back": "/products-images/women/pants/1-back-white.png",
+                "zoom": "/products-images/women/pants/1-zoom-white.png",
+                "flat": "/products-images/women/pants/1-flat-white.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": " Linen-Blend Relaxed Straight Ankle Pants",
+          "price": {
+            "original": 89.0,
+            "discounted": 71,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "New Off White",
+              "hex": "#F4F0ED",
+              "images": {
+                "front": "/products-images/women/pants/2-front-white.png",
+                "back": "/products-images/women/pants/2-back-white.png",
+                "zoom": "/products-images/women/pants/2-zoom-white.png",
+                "flat": "/products-images/women/pants/2-flat-white.png"
+              }
+            },
+            {
+              "name": "Basic Black",
+              "hex": "#121214",
+              "images": {
+                "front": "/products-images/women/pants/2-front-black.png",
+                "back": "/products-images/women/pants/2-back-black.png",
+                "zoom": "/products-images/women/pants/2-zoom-black.png",
+                "flat": "/products-images/women/pants/2-flat-black.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "365 High Rise Pleated Trousers",
+          "price": {
+            "original": 89.85,
+            "discounted": 0,
+            "discount_percent": 0,
+            "discount_text": "0% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Terra Brown",
+              "hex": "#36272C",
+              "images": {
+                "front": "/products-images/women/pants/3-front-brown.png",
+                "back": "/products-images/women/pants/3-back-brown.png",
+                "zoom": "/products-images/women/pants/3-zoom-brown.png",
+                "flat": "/products-images/women/pants/3-flat-brown.png"
+              }
+            },
+            {
+              "name": "New Classic Navy Blue",
+              "hex": "#27293B",
+              "images": {
+                "front": "/products-images/women/pants/3-front-blue.png",
+                "back": "/products-images/women/pants/3-back-blue.png",
+                "zoom": "/products-images/women/pants/3-zoom-blue.png",
+                "flat": "/products-images/women/pants/3-flat-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "girls": {
+    "category": {
+      "dresses": [
+        {
+          "id": "1",
+          "name": "Kids Uniform Drop-Waist Polo Dress",
+          "price": {
+            "original": 29.95,
+            "discounted": 19.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Navy Uniform",
+              "hex": "#1B1D2A",
+              "images": {
+                "front": "/products-images/girls/dresses/1-front-blue.png",
+                "back": "/products-images/girls/dresses/1-back-blue.png",
+                "zoom": "/products-images/girls/dresses/1-zoom-blue.png",
+                "flat": "/products-images/girls/dresses/1-flat-blue.png"
+              }
+            },
+            {
+              "name": "Optic White",
+              "hex": "#ECECEE",
+              "images": {
+                "front": "/products-images/girls/dresses/1-front-white.png",
+                "back": "/products-images/girls/dresses/1-back-white.png",
+                "zoom": "/products-images/girls/dresses/1-zoom-white.png",
+                "flat": "/products-images/girls/dresses/1-flat-white.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "Kids Mixed Media Bubble Dress",
+          "price": {
+            "original": 39.95,
+            "discounted": 25.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Neon Hot Lava",
+              "hex": "#F5513A",
+              "images": {
+                "front": "/products-images/girls/dresses/2-front-red.png",
+                "back": "/products-images/girls/dresses/2-back-red.png",
+                "zoom": "/products-images/girls/dresses/2-front-red.png",
+                "flat": "/products-images/girls/dresses/2-flat-red.png"
+              }
+            },
+            {
+              "name": "Budding Lilac",
+              "hex": "#D45896",
+              "images": {
+                "front": "/products-images/girls/dresses/2-front-pink.png",
+                "back": "/products-images/girls/dresses/2-back-pink.png",
+                "zoom": "/products-images/girls/dresses/2-front-pink.png",
+                "flat": "/products-images/girls/dresses/2-flat-pink.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "Kids VintageSoft Pleated Sweatshirt Dress",
+          "price": {
+            "original": 49.95,
+            "discounted": 32.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Dark Night Grey",
+              "hex": "#1E1D32",
+              "images": {
+                "front": "/products-images/girls/dresses/3-front-black.png",
+                "back": "/products-images/girls/dresses/3-back-black.png",
+                "zoom": "/products-images/girls/dresses/3-zoom-black.png",
+                "flat": "/products-images/girls/dresses/3-flat-black.png"
+              }
+            },
+            {
+              "name": "Wind Blue",
+              "hex": "#BBCFF2",
+              "images": {
+                "front": "/products-images/girls/dresses/3-front-blue.png",
+                "back": "/products-images/girls/dresses/3-back-blue.png",
+                "zoom": "/products-images/girls/dresses/3-zoom-blue.png",
+                "flat": "/products-images/girls/dresses/3-flat-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "4",
+          "name": "Kids Mixed Media Dress",
+          "price": {
+            "original": 39.95,
+            "discounted": 16.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Lemon Yellow",
+              "hex": "#F4DD62",
+              "images": {
+                "front": "/products-images/girls/dresses/4-front-yellow.png",
+                "back": "/products-images/girls/dresses/4-back-yellow.png",
+                "zoom": "/products-images/girls/dresses/4-zoom-yellow.png",
+                "flat": "/products-images/girls/dresses/4-flat-yellow.png"
+              }
+            },
+            {
+              "name": "Standout Pink",
+              "hex": "#F24C88",
+              "images": {
+                "front": "/products-images/girls/dresses/4-front-pink.png",
+                "back": "/products-images/girls/dresses/4-back-pink.png",
+                "zoom": "/products-images/girls/dresses/4-zoom-pink.png",
+                "flat": "/products-images/girls/dresses/4-flat-pink.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "5",
+          "name": "Kids Crinkle Gauze Midi Dress",
+          "price": {
+            "original": 54.95,
+            "discounted": 24.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Purple Loganberry",
+              "hex": "#6D5F9E",
+              "images": {
+                "front": "/products-images/girls/dresses/5-front-purple.png",
+                "back": "/products-images/girls/dresses/5-back-purple.png",
+                "zoom": "/products-images/girls/dresses/5-zoom-purple.png",
+                "flat": "/products-images/girls/dresses/5-flat-purple.png"
+              }
+            },
+            {
+              "name": "Limon",
+              "hex": "#D9DE80",
+              "images": {
+                "front": "/products-images/girls/dresses/5-front-yellow.png",
+                "back": "/products-images/girls/dresses/5-back-yellow.png",
+                "zoom": "/products-images/girls/dresses/5-zoom-yellow.png",
+                "flat": "/products-images/girls/dresses/5-flat-yellow.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "6",
+          "name": "Kids Pleated Tennis Dress",
+          "price": {
+            "original": 59.95,
+            "discounted": 29.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Black",
+              "hex": "#1C1C1C",
+              "images": {
+                "front": "/products-images/girls/dresses/6-front-black.png",
+                "back": "/products-images/girls/dresses/6-back-black.png",
+                "zoom": "/products-images/girls/dresses/6-zoom-black.png",
+                "flat": "/products-images/girls/dresses/6-flat-black.png"
+              }
+            },
+            {
+              "name": "Sassy Pink",
+              "hex": "#FE7D83",
+              "images": {
+                "front": "/products-images/girls/dresses/6-front-pink.png",
+                "back": "/products-images/girls/dresses/6-back-pink.png",
+                "zoom": "/products-images/girls/dresses/6-zoom-pink.png",
+                "flat": "/products-images/girls/dresses/6-flat-pink.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        }
+      ],
+      "t-shirts": [
+        {
+          "id": "1",
+          "name": "Kids Square-Neck T-Shirt",
+          "price": {
+            "original": 24.95,
+            "discounted": 12.0,
+            "discount_percent": 50,
+            "discount_text": "50% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Navy Uniform Floral",
+              "hex": "#F3B5DB",
+              "images": {
+                "front": "/products-images/girls/t-shirts/1-front-flower.png",
+                "back": "/products-images/girls/t-shirts/1-back-flower.png",
+                "zoom": "/products-images/girls/t-shirts/1-zoom-flower.png",
+                "flat": "/products-images/girls/t-shirts/1-flat-flower.png"
+              }
+            },
+            {
+              "name": "Warm Violet",
+              "hex": "#CBC5EB",
+              "images": {
+                "front": "/products-images/girls/t-shirts/1-front-purple.png",
+                "back": "/products-images/girls/t-shirts/1-back-purple.png",
+                "zoom": "/products-images/girls/t-shirts/1-front-purple.png",
+                "flat": "/products-images/girls/t-shirts/1-flat-purple.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "Kids Graphic T-Shirt",
+          "price": {
+            "original": 16.95,
+            "discounted": 13.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Bright Fuchsia",
+              "hex": "#D23085",
+              "images": {
+                "front": "/products-images/girls/t-shirts/2-front-pink.png",
+                "back": "/products-images/girls/t-shirts/2-back-pink.png",
+                "zoom": "/products-images/girls/t-shirts/2-zoom-pink.png",
+                "flat": "/products-images/girls/t-shirts/2-flat-pink.png"
+              }
+            },
+            {
+              "name": "Dark Night",
+              "hex": "#242738",
+              "images": {
+                "front": "/products-images/girls/t-shirts/2-front-black.png",
+                "back": "/products-images/girls/t-shirts/2-back-black.png",
+                "zoom": "/products-images/girls/t-shirts/2-zoom-black.png",
+                "flat": "/products-images/girls/t-shirts/2-flat-black.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "Kids Graphic T-Shirt",
+          "price": {
+            "original": 16.95,
+            "discounted": 13.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Warm Violet",
+              "hex": "#C0BAE0",
+              "images": {
+                "front": "/products-images/girls/t-shirts/3-front-purple.png",
+                "back": "/products-images/girls/t-shirts/3-back-purple.png",
+                "zoom": "/products-images/girls/t-shirts/3-zoom-purple.png",
+                "flat": "/products-images/girls/t-shirts/3-flat-purple.png"
+              }
+            },
+            {
+              "name": "Happy Pink",
+              "hex": "#FAB0D7",
+              "images": {
+                "front": "/products-images/girls/t-shirts/3-front-pink.png",
+                "back": "/products-images/girls/t-shirts/3-back-pink.png",
+                "zoom": "/products-images/girls/t-shirts/3-zoom-pink.png",
+                "flat": "/products-images/girls/t-shirts/3-flat-pink.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        }
+      ],
+      "pants": [
+        {
+          "id": "1",
+          "name": "Kids Wide-Leg Foldover Leggings",
+          "price": {
+            "original": 24.95,
+            "discounted": 17.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "True Black",
+              "hex": "#171717",
+              "images": {
+                "front": "/products-images/girls/pants/1-font-black.png",
+                "back": "/products-images/girls/pants/1-back-black.png",
+                "zoom": "/products-images/girls/pants/1-zoom-black.png",
+                "flat": "/products-images/girls/pants/1-flat-black.png"
+              }
+            },
+            {
+              "name": "Pink standard",
+              "hex": "#EACACB",
+              "images": {
+                "front": "/products-images/girls/pants/1-font-pink.png",
+                "back": "/products-images/girls/pants/1-back-pink.png",
+                "zoom": "/products-images/girls/pants/1-zoom-pink.png",
+                "flat": "/products-images/girls/pants/1-flat-pink.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "Kids Flare Leggings",
+          "price": {
+            "original": 24.95,
+            "discounted": 19.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "True Black",
+              "hex": "#171717",
+              "images": {
+                "front": "/products-images/girls/pants/2-front-black.png",
+                "back": "/products-images/girls/pants/2-back-black.png",
+                "zoom": "/products-images/girls/pants/2-zoom-black.png",
+                "flat": "/products-images/girls/pants/2-flat-black.png"
+              }
+            },
+            {
+              "name": "Warm Violet",
+              "hex": "#CCBDE4",
+              "images": {
+                "front": "/products-images/girls/pants/2-front-purple.png",
+                "back": "/products-images/girls/pants/2-back-purple.png",
+                "zoom": "/products-images/girls/pants/2-zoom-purple.png",
+                "flat": "/products-images/girls/pants/2-flat-purple.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "Kids Uniform Easy Wide-Leg Pants",
+          "price": {
+            "original": 39.95,
+            "discounted": 31.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Khaki",
+              "hex": "#CEB891",
+              "images": {
+                "front": "/products-images/girls/pants/3-front.png",
+                "back": "/products-images/girls/pants/3-back.png",
+                "zoom": "/products-images/girls/pants/3-zoom.png",
+                "flat": "/products-images/girls/pants/3-flat.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        }
+      ],
+      "jeans": [
+        {
+          "id": "1",
+          "name": "Kids Low Rise Stride Wide-Leg Jeans",
+          "price": {
+            "original": 54.95,
+            "discounted": 49.0,
+            "discount_percent": 0,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Medium Wash",
+              "hex": "#CCD5DC",
+              "images": {
+                "front": "/products-images/girls/jeans/1-front-white.png",
+                "back": "/products-images/girls/jeans/1-back-white.png",
+                "zoom": "/products-images/girls/jeans/1-zoom-white.png",
+                "flat": "/products-images/girls/jeans/1-flat-white.png"
+              }
+            },
+            {
+              "name": "Floral Medium Wash",
+              "hex": "#839CB2",
+              "images": {
+                "front": "/products-images/girls/jeans/1-front-blue.png",
+                "back": "/products-images/girls/jeans/1-back-blue.png",
+                "zoom": "/products-images/girls/jeans/1-zoom-blue.png",
+                "flat": "/products-images/girls/jeans/1-flat-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "Kids Low Rise Stride Wide-Leg Jeans",
+          "price": {
+            "original": 54.95,
+            "discounted": 49.0,
+            "discount_percent": 0,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Black Destroy Wash",
+              "hex": "#222022",
+              "images": {
+                "front": "/products-images/girls/jeans/2-front-black.png",
+                "back": "/products-images/girls/jeans/2-back-black.png",
+                "zoom": "/products-images/girls/jeans/2-zoom-black.png",
+                "flat": "/products-images/girls/jeans/2-flat-black.png"
+              }
+            },
+            {
+              "name": "Medium Wash",
+              "hex": "#466382",
+              "images": {
+                "front": "/products-images/girls/jeans/2-front-blue.png",
+                "back": "/products-images/girls/jeans/2-back-blue.png",
+                "zoom": "/products-images/girls/jeans/2-zoom-blue.png",
+                "flat": "/products-images/girls/jeans/2-flat-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "Kids Low Rise Stride Wide-Leg Jeans",
+          "price": {
+            "original": 54.95,
+            "discounted": 49.0,
+            "discount_percent": 0,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Pure pink",
+              "hex": "#C8BCC8",
+              "images": {
+                "front": "/products-images/girls/jeans/3-front-pink.png",
+                "back": "/products-images/girls/jeans/3-back-pink.png",
+                "zoom": "/products-images/girls/jeans/3-zoom-pink.png",
+                "flat": "/products-images/girls/jeans/3-flat-pink.png"
+              }
+            },
+            {
+              "name": "Medium Wash",
+              "hex": "#4A5775",
+              "images": {
+                "front": "/products-images/girls/jeans/3-front-blue.png",
+                "back": "/products-images/girls/jeans/3-back-blue.png",
+                "zoom": "/products-images/girls/jeans/3-zoom-blue.png",
+                "flat": "/products-images/girls/jeans/3-flat-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "boys": {
+    "category": {
+      "t-shirts": [
+        {
+          "id": "1",
+          "name": "Kids Graphic T-Shirt",
+          "price": {
+            "original": 16.95,
+            "discounted": 12.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Video Game Black",
+              "hex": "#202022",
+              "images": {
+                "front": "/products-images/boys/t-shirts/2-front-black.png",
+                "zoom": "/products-images/boys/t-shirts/2-zoom-black.png"
+              }
+            },
+            {
+              "name": "Red Clay",
+              "hex": "#A13F52",
+              "images": {
+                "front": "/products-images/boys/t-shirts/2-front-red.png",
+                "zoom": "/products-images/boys/t-shirts/2-zoom-red.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "Kids Graphic T-Shirt",
+          "price": {
+            "original": 16.95,
+            "discounted": 12.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Royal gem",
+              "hex": "#1C53AE",
+              "images": {
+                "front": "/products-images/boys/t-shirts/1-front-blue.png",
+                "zoom": "/products-images/boys/t-shirts/1-zoom-blue.png"
+              }
+            },
+            {
+              "name": "Red Clay",
+              "hex": "#241F3E",
+              "images": {
+                "front": "/products-images/boys/t-shirts/1-front-black.png",
+                "zoom": "/products-images/boys/t-shirts/1-zoom-black.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "Kids Relaxed Graphic T-Shirt",
+          "price": {
+            "original": 29.95,
+            "discounted": 23.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Black",
+              "hex": "#202022",
+              "images": {
+                "front": "/products-images/boys/t-shirts/3-front-black.png",
+                "back": "/products-images/boys/t-shirts/3-back-black.png",
+                "zoom": "/products-images/boys/t-shirts/3-zoom-black.png"
+              }
+            },
+            {
+              "name": "Beach Ball Blue",
+              "hex": "#70B8E7",
+              "images": {
+                "front": "/products-images/boys/t-shirts/3-front-blue.png",
+                "back": "/products-images/boys/t-shirts/3-back-blue.png",
+                "zoom": "/products-images/boys/t-shirts/3-zoom-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        }
+      ],
+      "sweaters": [
+        {
+          "id": "1",
+          "name": "Kids VintageSoft Relaxed Space Hoodie",
+          "price": {
+            "original": 49.95,
+            "discounted": 24.0,
+            "discount_percent": 50,
+            "discount_text": "50% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Basketball",
+              "hex": "#EAE8EB",
+              "images": {
+                "front": "/products-images/boys/sweaters/1-front-white.png",
+                "back": "/products-images/boys/sweaters/1-back-white.png",
+                "zoom": "/products-images/boys/sweaters/1-zoom-white.png",
+                "flat": "/products-images/boys/sweaters/1-flat-white.png"
+              }
+            },
+            {
+              "name": "Outer space",
+              "hex": "#37383C",
+              "images": {
+                "front": "/products-images/boys/sweaters/1-front-black.png",
+                "back": "/products-images/boys/sweaters/1-back-black.png",
+                "zoom": "/products-images/boys/sweaters/1-zoom-black.png",
+                "flat": "/products-images/boys/sweaters/1-flat-black.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "Kids Vintage Soft Logo Hoodie",
+          "price": {
+            "original": 49.95,
+            "discounted": 39.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Green tie dye",
+              "hex": "#A1E8A6",
+              "images": {
+                "front": "/products-images/boys/sweaters/2-front-green.png",
+                "back": "/products-images/boys/sweaters/2-back-green.png",
+                "zoom": "/products-images/boys/sweaters/2-zoom-green.png",
+                "flat": "/products-images/boys/sweaters/2-flat-green.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "Kids VintageSoft Sweatpant Jeans",
+          "price": {
+            "original": 44.95,
+            "discounted": 22.0,
+            "discount_percent": 50,
+            "discount_text": "50% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Tapestry navy",
+              "hex": "#525870",
+              "images": {
+                "front": "/products-images/boys/sweaters/3-front-black.png",
+                "back": "/products-images/boys/sweaters/3-back-black.png",
+                "zoom": "/products-images/boys/sweaters/3-zoom-black.png",
+                "flat": "/products-images/boys/sweaters/3-flat-black.png"
+              }
+            },
+            {
+              "name": "Thyme green",
+              "hex": "#616356",
+              "images": {
+                "front": "/products-images/boys/sweaters/3-front-green.png",
+                "back": "/products-images/boys/sweaters/3-back-green.png",
+                "zoom": "/products-images/boys/sweaters/3-zoom-green.png",
+                "flat": "/products-images/boys/sweaters/3-flat-green.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        }
+      ],
+      "pants": [
+        {
+          "id": "1",
+          "name": "Kids Vintage Soft Joggers",
+          "price": {
+            "original": 39.95,
+            "discounted": 31.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Black",
+              "hex": "#131315",
+              "images": {
+                "front": "/products-images/boys/pants/1-front-black.png",
+                "back": "/products-images/boys/pants/1-back-black.png",
+                "zoom": "/products-images/boys/pants/1-zoom-black.png",
+                "flat": "/products-images/boys/pants/1-flat-black.png"
+              }
+            },
+            {
+              "name": "Gray",
+              "hex": "#D5D8D3",
+              "images": {
+                "front": "/products-images/boys/pants/1-front-gray.png",
+                "back": "/products-images/boys/pants/1-back-gray.png",
+                "zoom": "/products-images/boys/pants/1-zoom-gray.png",
+                "flat": "/products-images/boys/pants/1-flat-gray.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "Kids UltraSoft Easy Khakis",
+          "price": {
+            "original": 44.95,
+            "discounted": 34.0,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Regular Grey",
+              "hex": "#DBD4CC",
+              "images": {
+                "front": "/products-images/boys/pants/2-front-white.png",
+                "back": "/products-images/boys/pants/2-back-white.png",
+                "zoom": "/products-images/boys/pants/2-zoom-white.png",
+                "flat": "/products-images/boys/pants/2-flat-white.png"
+              }
+            },
+            {
+              "name": "Blue Shade",
+              "hex": "#313F62",
+              "images": {
+                "front": "/products-images/boys/pants/2-front-blue.png",
+                "back": "/products-images/boys/pants/2-back-blue.png",
+                "zoom": "/products-images/boys/pants/2-zoom-blue.png",
+                "flat": "/products-images/boys/pants/2-flat-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "Kids VintageSoft Baggy Sweatpants",
+          "price": {
+            "original": 39.95,
+            "discounted": 31.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Army Jacket Green",
+              "hex": "#756C42",
+              "images": {
+                "front": "/products-images/boys/pants/3-front-green.png",
+                "back": "/products-images/boys/pants/3-back-green.png",
+                "zoom": "/products-images/boys/pants/3-zoom-green.png",
+                "flat": "/products-images/boys/pants/3-flat-green.png"
+              }
+            },
+            {
+              "name": "Gray Heather",
+              "hex": "#D7D2CD",
+              "images": {
+                "front": "/products-images/boys/pants/3-front-white.png",
+                "back": "/products-images/boys/pants/3-back-white.png",
+                "zoom": "/products-images/boys/pants/3-zoom-white.png",
+                "flat": "/products-images/boys/pants/3-flat-white.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        }
+      ],
+      "jeans": [
+        {
+          "id": "1",
+          "name": "Kids Easy Baggy Carpenter Jeans",
+          "price": {
+            "original": 54.95,
+            "discounted": 38.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Medium Wash",
+              "hex": "#9BB3BF",
+              "images": {
+                "front": "/products-images/boys/jeans/1-front-white.png",
+                "back": "/products-images/boys/jeans/1-back-white.png",
+                "zoom": "/products-images/boys/jeans/1-zoom-white.png",
+                "flat": "/products-images/boys/jeans/1-flat-white.png"
+              }
+            },
+            {
+              "name": "Dark wash",
+              "hex": "#384E72",
+              "images": {
+                "front": "/products-images/boys/jeans/1-front-blue.png",
+                "back": "/products-images/boys/jeans/1-back-blue.png",
+                "zoom": "/products-images/boys/jeans/1-zoom-blue.png",
+                "flat": "/products-images/boys/jeans/1-flat-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "name": "Kids '90s Original Straight Jeans",
+          "price": {
+            "original": 44.95,
+            "discounted": 31.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Light Destroy",
+              "hex": "#BBC2C8",
+              "images": {
+                "front": "/products-images/boys/jeans/2-front-white.png",
+                "back": "/products-images/boys/jeans/2-back-white.png",
+                "zoom": "/products-images/boys/jeans/2-zoom-white.png",
+                "flat": "/products-images/boys/jeans/2-flat-white.png"
+              }
+            },
+            {
+              "name": "New medium wash",
+              "hex": "#788C9D",
+              "images": {
+                "front": "/products-images/boys/jeans/2-front-blue.png",
+                "back": "/products-images/boys/jeans/2-back-blue.png",
+                "zoom": "/products-images/boys/jeans/2-zoom-blue.png",
+                "flat": "/products-images/boys/jeans/2-falt-blue.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "name": "Kids UltraSoft '90s Original Straight Jeans",
+          "price": {
+            "original": 44.95,
+            "discounted": 31.0,
+            "discount_percent": 30,
+            "discount_text": "30% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Eiffel Tower",
+              "hex": "#5A5955",
+              "images": {
+                "front": "/products-images/boys/jeans/3-front-brown.png",
+                "back": "/products-images/boys/jeans/3-back-brown.png",
+                "zoom": "/products-images/boys/jeans/3-zoom-brown.png",
+                "flat": "/products-images/boys/jeans/3-flat-brown.png"
+              }
+            },
+            {
+              "name": "New Classic Navy",
+              "hex": "#242428",
+              "images": {
+                "front": "/products-images/boys/jeans/3-front-black.png",
+                "back": "/products-images/boys/jeans/3-back-black.png",
+                "zoom": "/products-images/boys/jeans/3-zoom-black.png",
+                "flat": "/products-images/boys/jeans/3-flat-black.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Our Mid Rise Pant has a 12.75″ (32 cm) rise. ",
+              "Sits below the waist with a longer rise. Relaxed through the hip & thigh. Loose, straight leg. ",
+              "Longer inseam that stacks at the hem.",
+              "16.75″ (43 cm) leg opening.",
+              "Models are 6'1″–6'2″ (185 cm–188 cm) with a 31″ (79 cm) waist & 32–33″ (81 cm–84 cm) inseam & are wearing Orix size 32 x 32."
+            ],
+            "fabric_and_care": [
+              "Regenerative Cotton 98%, Elastane 2%",
+              "Machine wash.",
+              "Imported."
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "slide-3": {
+    "category": {
+      "pants": [
+        {
+          "id": "s3-1",
+          "name": "Herringbone Linen-Cotton Suit Pant",
+          "price": {
+            "original": 220.0,
+            "discounted": 176.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Light Gray Herringbone",
+              "hex": "#C0BCB9",
+              "images": {
+                "front": "/slide3-images/products/s3-1/1.png",
+                "video": "/slide3-images/products/s3-1/2.mp4",
+                "back": "/slide3-images/products/s3-1/3.png",
+                "zoom": "/slide3-images/products/s3-1/4.png",
+                "flat": "/slide3-images/products/s3-1/5.png",
+                "side": "/slide3-images/products/s3-1/6.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Tailored Slim Fit: Mid-rise. Tapered slim leg.",
+              "Inseams: Short 29.5, Regular 31.5, Long 33.5",
+              "Model: Size 32, 6'2"
+            ],
+            "fabric_and_care": [
+              "Shell: 51% linen, 49% cotton.",
+              "Lining: 100% cotton.",
+              "Dry clean only.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "s3-3",
+          "name": "OrixFlex Essential Khakis in Straight Fit",
+          "price": {
+            "original": 35.99,
+            "discounted": 34.19,
+            "discount_percent": 5,
+            "discount_text": "5% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Soft Black",
+              "hex": "#343231",
+              "images": {
+                "front": "/slide3-images/products/s3-3/SoftBlack-1.png",
+                "back": "/slide3-images/products/s3-3/SoftBlack-2.png",
+                "side": "/slide3-images/products/s3-3/SoftBlack-4.png",
+                "zoom": "/slide3-images/products/s3-3/SoftBlack-5.png",
+                "flat": "/slide3-images/products/s3-3/SoftBlack-6.png"
+              }
+            },
+            {
+              "name": "New Brown",
+              "hex": "#764D1F",
+              "images": {
+                "front": "/slide3-images/products/s3-3/NewBrown-1.png",
+                "back": "/slide3-images/products/s3-3/NewBrown-2.png",
+                "side": "/slide3-images/products/s3-3/NewBrown-4.png",
+                "zoom": "/slide3-images/products/s3-3/NewBrown-5.png",
+                "flat": "/slide3-images/products/s3-3/NewBrown-6.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Styles engineered with stretch for a flexible fit that moves with you.",
+              "Mid rise.",
+              "Straight through the leg.",
+              "Straight leg opening.",
+              "Jordan is 6'2 with a 32 waist and 32 inseam is wearing a regular Orix Factory size 32x32."
+            ],
+            "fabric_and_care": [
+              "Soft Black: 99% Cotton, 1% Spandex.",
+              "Other Colors: 98% Cotton, 2% Spandex.",
+              "Machine wash warm. Tumble dry medium.",
+              "Imported."
+            ]
+          }
+        },
+        {
+          "id": "s3-4",
+          "name": "OrixFlex Essential Straight Cargo Pants",
+          "price": {
+            "original": 41.99,
+            "discounted": 25.19,
+            "discount_percent": 40,
+            "discount_text": "40% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Bedrock Beige",
+              "hex": "#E6DCC9",
+              "images": {
+                "front": "/slide3-images/products/s3-4/BedrockBeige-1.png",
+                "back": "/slide3-images/products/s3-4/BedrockBeige-2.png",
+                "side": "/slide3-images/products/s3-4/BedrockBeige-4.png",
+                "zoom": "/slide3-images/products/s3-4/BedrockBeige-5.png",
+                "flat": "/slide3-images/products/s3-4/BedrockBeige-6.png"
+              }
+            },
+            {
+              "name": "Black Moonless Night",
+              "hex": "#302F32",
+              "images": {
+                "front": "/slide3-images/products/s3-4/BlackMoonlessNight-1.png",
+                "back": "/slide3-images/products/s3-4/BlackMoonlessNight-2.png",
+                "side": "/slide3-images/products/s3-4/BlackMoonlessNight-3.png",
+                "zoom": "/slide3-images/products/s3-4/BlackMoonlessNight-5.png",
+                "flat": "/slide3-images/products/s3-4/BlackMoonlessNight-6.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Sits at the waist.",
+              "Easy through the hip and thigh.",
+              "Straight leg."
+            ],
+            "fabric_and_care": [
+              "98% Cotton, 2% Spandex.",
+              "Machine wash cold. Tumble dry low.",
+              "Imported."
+            ]
+          }
+        }
+      ],
+      "jeans": [
+        {
+          "id": "s3-2",
+          "name": "HIGH-RISE 90S STRAIGHT JEAN",
+          "price": {
+            "original": 120.0,
+            "discounted": 96.0,
+            "discount_percent": 20,
+            "discount_text": "20% off: limited time"
+          },
+          "colors": [
+            {
+              "name": "Dark Wash",
+              "hex": "#302F32",
+              "images": {
+                "front": "/slide3-images/products/s3-2/DarkWash-1.png",
+                "video": "/slide3-images/products/s3-2/DarkWash-2.mp4",
+                "back": "/slide3-images/products/s3-2/DarkWash-3.png",
+                "zoom": "/slide3-images/products/s3-2/DarkWash-4.png",
+                "side": "/slide3-images/products/s3-2/DarkWash-5.png",
+                "flat": "/slide3-images/products/s3-2/DarkWash-6.png"
+              }
+            },
+            {
+              "name": "Light Wash",
+              "hex": "#D6F0FC",
+              "images": {
+                "front": "/slide3-images/products/s3-2/LightWash-1.png",
+                "back": "/slide3-images/products/s3-2/LightWash-2.png",
+                "side": "/slide3-images/products/s3-2/LightWash-3.png",
+                "flat": "/slide3-images/products/s3-2/LightWash-4.png",
+                "zoom": "/slide3-images/products/s3-2/LightWash-5.png"
+              }
+            }
+          ],
+          "details": {
+            "fit_and_sizing": [
+              "Model: Size 26, 5'10",
+              "Measurements (taken from size 6/28):",
+              "Front rise: 12",
+              "Leg opening: 16",
+              "Petite inseam: 28",
+              "Regular inseam: 30",
+              "Long inseam: 33"
+            ],
+            "fabric_and_care": [
+              "94% organic cotton, 5% recycled cotton, 1% elastane.",
+              "Machine wash cold, gentle cycle, tumble dry low, warm iron.",
+              "Organic: Made with 94% certified organic cotton.Imported."
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

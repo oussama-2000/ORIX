@@ -1,0 +1,47 @@
+
+    {
+  "men": {
+    "title": "Men",
+    "categories": [
+      { "id": "sweaters", "name": "Sweaters", "image": "/category-images/men_Sweats.png" },
+      { "id": "t-shirts", "name": "T-Shirts", "image": "/category-images/men_tshirts.png" },
+      { "id": "pants", "name": "Pants", "image": "/category-images/men_pants.png" },
+      { "id": "jeans", "name": "Jeans", "image": "/category-images/men_jeans.png" },
+      { "id": "shirts", "name": "Shirts", "image": "/category-images/men_shirts.png" }
+    ]
+  },
+  "women": {
+    "title": "Women",
+    "categories": [
+      { "id": "dresses", "name": "Dresses", "image": "/category-images/women_dresses.png" },
+      { "id": "t-shirts", "name": "T-Shirts", "image": "/category-images/women_tshirts.png" },
+      { "id": "jeans", "name": "Jeans", "image": "/category-images/women_jeans.png" },
+      { "id": "pants", "name": "Pants", "image": "/category-images/women_pants.png" },
+      { "id": "sweats", "name": "Sweats", "image":  "/category-images/women_sweets.png" }
+      
+    ]
+  },
+  "boys": {
+    "title": "Boys",
+    "categories": [
+      { "id": "t-shirts", "name": "T-Shirts", "image": "/category-images/boys_tshirts.png" },
+      { "id": "sweaters", "name": "Sweaters", "image": "/category-images/boys_sweets.png" },
+      { "id": "pants", "name": "Pants", "image": "/category-images/boys_pants.png" },
+      { "id": "jeans", "name": "Jeans", "image": "/category-images/boys_jeans.png" },
+      { "id": "shirts", "name": "Shirts", "image": "/category-images/boys_shirts.png" }
+      
+    ]
+  },
+  "girls": {
+    "title": "Girls",
+    "categories": [
+      { "id": "dresses", "name": "Dresses", "image": "/category-images/girls_dresses.png" },
+      { "id": "t-shirts", "name": "T-Shirts", "image": "/category-images/girls_tshirts.png" },
+      { "id": "pants", "name": "Pants", "image": "/category-images/girls_pants.png" },
+      { "id": "jeans", "name": "Jeans", "image": "/category-images/girls_jeans.png" },
+      { "id": "sweats", "name": "Sweats", "image": "/category-images/girls_sweets.png" }
+      
+    ]
+  }
+}
+

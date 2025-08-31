@@ -1,0 +1,48 @@
+[
+    {
+        "id":"s2-1",
+        "name":"Herringbone Linen-Cotton Suit Pant",
+        "price":"$220.00",
+        "image":"/slide3-images/1.png",
+        "path":"/men/pants/s3-1"
+    },
+    {
+        "id":"s2-2",
+        "name":"HIGH-RISE 90S STRAIGHT JEAN",
+        "price":"$120.00",
+        "image":"/slide3-images/2.png",
+        "path":"/women/jeans/s3-2"
+    },
+    {
+        "id":"s2-3",
+        "name":"GapFlex Essential Khakis in Straight Fit",
+        "price":"$35.99",
+        "image":"/slide3-images/3.png",
+        "path":"/men/pants/s3-3"
+    }
+    ,
+    {
+        "id":"s2-4",
+        "name":"GapFlex Essential Straight Cargo Pants",
+        "price":"$41.99",
+        "image":"/slide3-images/4.png",
+       "path":"/men/pants/s3-4"
+    }
+    ,
+    {
+        "id":"s2-5",
+        "name":"Baggy Jeans",
+        "price":"$48.99",
+        "image":"/slide3-images/5.png",
+        "path":"/men/jeans/s2-5"
+    }
+    ,
+    {
+        "id":"s2-6",
+        "name":"Modern Crewneck T-Shirt",
+        "price":"$12.00",
+        "image":"/slide3-images/6.png",
+        "path":"/women/t-shirts/1"
+    }
+    
+]
