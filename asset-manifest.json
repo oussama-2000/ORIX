@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ORIX/static/css/main.a7cb16f2.css",
-    "main.js": "/ORIX/static/js/main.e0471c6e.js",
+    "main.js": "/ORIX/static/js/main.aff14c5a.js",
     "static/js/453.7fac5d64.chunk.js": "/ORIX/static/js/453.7fac5d64.chunk.js",
     "static/media/linstone.woff": "/ORIX/static/media/linstone.f8743346b5f2e1ee896e.woff",
     "index.html": "/ORIX/index.html",
     "main.a7cb16f2.css.map": "/ORIX/static/css/main.a7cb16f2.css.map",
-    "main.e0471c6e.js.map": "/ORIX/static/js/main.e0471c6e.js.map",
+    "main.aff14c5a.js.map": "/ORIX/static/js/main.aff14c5a.js.map",
     "453.7fac5d64.chunk.js.map": "/ORIX/static/js/453.7fac5d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7cb16f2.css",
-    "static/js/main.e0471c6e.js"
+    "static/js/main.aff14c5a.js"
   ]
 }
