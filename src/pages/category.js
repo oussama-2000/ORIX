@@ -41,7 +41,7 @@ export default function Category() {
                 <CardMedia
                   component="img"
                   height="300"
-                  image={cat.image}
+                  image={process.env.PUBLIC_URL +cat.image}
                   alt={cat.name}
                 />
                 <CardContent>

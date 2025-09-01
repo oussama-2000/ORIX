@@ -134,7 +134,7 @@ export default function Home() {
           }}
         >
           <source
-            src={isMdDown ? "/slide-1-mobile.mp4" : "/last_slide.mp4"}
+            src={isMdDown ? (process.env.PUBLIC_URL +"/slide-1-mobile.mp4") : (process.env.PUBLIC_URL +"/last_slide.mp4")}
             type="video/mp4"
           />
           Your browser does not support the video tag.
@@ -219,7 +219,7 @@ export default function Home() {
         {/* Preload the background image and flip the flag once it is ready */}
         <Box
           component="img"
-          src={slide2_images[rightIndex]}
+          src={process.env.PUBLIC_URL + slide2_images[rightIndex]}
           alt="preload-slide-2"
           onLoad={() => setSlide2Loaded(true)}
           sx={{ display: "none" }}
@@ -229,7 +229,7 @@ export default function Home() {
           sx={{
             width: "100%",
             height: "100%",
-            backgroundImage: `url(${slide2_images[rightIndex]})`,
+            backgroundImage: `url(${process.env.PUBLIC_URL +slide2_images[rightIndex]})`,
             backgroundSize: "cover",
             backgroundPosition: "center",
             transition: "background-image 1s ease-in-out",
@@ -321,7 +321,7 @@ export default function Home() {
                 <Link to={img.path}>
                   <Box
                     component="img"
-                    src={img.image}
+                    src={process.env.PUBLIC_URL + img.image}
                     alt={img.name}
                     onLoad={() =>
                       setSlide3Loaded((prev) => {
@@ -370,7 +370,7 @@ export default function Home() {
               position: "relative",
               width: isLgUp ? "50%" : "100%",
               height: "100%",
-              backgroundImage: `url(${slide4_leftImages[leftIndex]})`,
+              backgroundImage: `url(${process.env.PUBLIC_URL +slide4_leftImages[leftIndex]})`,
               backgroundSize: "cover",
               backgroundPosition: "center",
               transition: "background-image 1s ease-in-out",
@@ -387,7 +387,7 @@ export default function Home() {
             {/* Preloader (hidden) */}
             <Box
               component="img"
-              src={slide4_leftImages[leftIndex]}
+              src={process.env.PUBLIC_URL + slide4_leftImages[leftIndex]}
               alt="preload-slide4-left"
               onLoad={() => setSlide4LeftLoaded(true)}
               sx={{ display: "none" }}
@@ -401,7 +401,7 @@ export default function Home() {
                 position: "relative",
                 width: "50%",
                 height: "100%",
-                backgroundImage: `url(${slide4_rightImages[rightIndex]})`,
+                backgroundImage: `url(${process.env.PUBLIC_URL +slide4_rightImages[rightIndex]})`,
                 backgroundSize: "cover",
                 backgroundPosition: "center",
                 transition: "background-image 1s ease-in-out",
@@ -418,7 +418,7 @@ export default function Home() {
               {/* Preloader (hidden) */}
               <Box
                 component="img"
-                src={slide4_rightImages[rightIndex]}
+                src={process.env.PUBLIC_URL + slide4_rightImages[rightIndex]}
                 alt="preload-slide4-right"
                 onLoad={() => setSlide4RightLoaded(true)}
                 sx={{ display: "none" }}
@@ -496,7 +496,7 @@ export default function Home() {
               position: "relative",
               width: isLgUp ? "50%" : "100%",
               height: "100%",
-              backgroundImage: `url(${slide5_leftImages[leftIndex]})`,
+              backgroundImage: `url(${process.env.PUBLIC_URL +slide5_leftImages[leftIndex]})`,
               backgroundSize: "cover",
               backgroundPosition: "center",
               transition: "background-image 1s ease-in-out",
@@ -513,7 +513,7 @@ export default function Home() {
             {/* Preloader (hidden) */}
             <Box
               component="img"
-              src={slide5_leftImages[leftIndex]}
+              src={ process.env.PUBLIC_URL + slide5_leftImages[leftIndex]}
               alt="preload-slide5-left"
               onLoad={() => setSlide5LeftLoaded(true)}
               sx={{ display: "none" }}
@@ -527,7 +527,7 @@ export default function Home() {
                 position: "relative",
                 width: "50%",
                 height: "100%",
-                backgroundImage: `url(${slide5_rightImages[rightIndex]})`,
+                backgroundImage: `url(${process.env.PUBLIC_URL +slide5_rightImages[rightIndex]})`,
                 backgroundSize: "cover",
                 backgroundPosition: "center",
                 transition: "background-image 1s ease-in-out",
@@ -544,7 +544,7 @@ export default function Home() {
               {/* Preloader (hidden) */}
               <Box
                 component="img"
-                src={slide5_rightImages[rightIndex]}
+                src={process.env.PUBLIC_URL + slide5_rightImages[rightIndex]}
                 alt="preload-slide5-right"
                 onLoad={() => setSlide5RightLoaded(true)}
                 sx={{ display: "none" }}
@@ -616,9 +616,9 @@ export default function Home() {
         }}
       >
         {[
-          { src: "/slide6-images/1.png", label: "Men", to: "/men" },
+          { src:"/slide6-images/1.png", label: "Men", to: "/men" },
           { src: "/slide6-images/2.png", label: "Women", to: "/women" },
-          { src: "/slide6-images/3.png", label: "Girls", to: "/girls" },
+          { src:"/slide6-images/3.png", label: "Girls", to: "/girls" },
           { src: "/slide6-images/4.png", label: "Boys", to: "/boys" },
         ].map((item, i) => (
           <Link key={i} to={item.to}>
@@ -635,7 +635,7 @@ export default function Home() {
               )}
               <Box
                 component="img"
-                src={item.src}
+                src={process.env.PUBLIC_URL + item.src}
                 alt={item.label}
                 onLoad={() =>
                   setSlide6Loaded((prev) => {

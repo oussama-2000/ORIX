@@ -128,7 +128,7 @@ const Products = () => {
                   >
                     <CardMedia
                       component="img"
-                      image={currentImage}
+                      image={process.env.PUBLIC_URL +currentImage}
                       alt={product.name}
                       sx={{ objectFit: "cover", width: "100%" }}
                     />

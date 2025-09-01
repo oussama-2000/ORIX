@@ -130,7 +130,7 @@ export default function Navbar() {
       >
         <Toolbar sx={{ display: "flex", justifyContent: "space-between" }}>
           <Link to="/">
-            <img src="/ORIX.png" alt="ORIX" width={"65vw"}  />
+            <img src={process.env.PUBLIC_URL + "/ORIX.png"} alt="ORIX" width={"65vw"}  />
           </Link>
 
           {/* Desktop Menu */}
@@ -200,9 +200,9 @@ export default function Navbar() {
                         onClick={() => handleResultClick(item)}
                       >
                         <img
-                          src={
-                            item.colors?.[0]?.images?.front ||
-                            "/placeholder-image.jpg"
+                          src={(process.env.PUBLIC_URL +
+                            item.colors?.[0]?.images?.front )||
+                            (process.env.PUBLIC_URL + "/placeholder-image.jpg")
                           }
                           alt={item.name}
                           width="40"
@@ -301,8 +301,8 @@ export default function Navbar() {
                     >
                       <img
                         src={
-                          item.colors?.[0]?.images?.front ||
-                          "/placeholder-image.jpg"
+                          (process.env.PUBLIC_URL +item.colors?.[0]?.images?.front) ||
+                          (process.env.PUBLIC_URL + "/placeholder-image.jpg")
                         }
                         alt={item.name}
                         width="40"

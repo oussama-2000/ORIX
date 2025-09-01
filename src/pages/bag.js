@@ -181,7 +181,7 @@ export default function Bag() {
                     <Box sx={{ display: "flex" }}>
                       <Box
                         component="img"
-                        src={item.colors[0].images.front}
+                        src={ process.env.PUBLIC_URL + item.colors[0].images.front}
                         alt={item.name}
                         sx={{
                           width: 100,

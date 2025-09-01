@@ -95,7 +95,7 @@ const Product = () => {
               <CardMedia
                 key={idx}
                 component="video"
-                src={media}
+                src={process.env.PUBLIC_URL + media}
                 autoPlay
                 muted
                 loop
@@ -109,7 +109,7 @@ const Product = () => {
               <CardMedia
                 key={idx}
                 component="img"
-                image={media}
+                image={process.env.PUBLIC_URL +media}
                 alt={product.name}
                 onClick={() => {
                   if (isDesktop) {
@@ -375,7 +375,7 @@ const Product = () => {
                   key !== "video" ? (
                     <img
                       key={idx}
-                      src={media}
+                      src={process.env.PUBLIC_URL + media}
                       alt={product.name}
                       onClick={() => setActiveImage(media)}
                       style={{
@@ -411,7 +411,7 @@ const Product = () => {
               </IconButton>
               {activeImage && (
                 <img
-                  src={activeImage}
+                  src={process.env.PUBLIC_URL + activeImage}
                   alt="zoomed"
                   style={{
                     height:"100%",

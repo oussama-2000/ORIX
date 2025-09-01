@@ -25,7 +25,7 @@ export default function Footer() {
         }}
       >
       <Box sx={{ textAlign: { xs: "center", md: "left" } }}>
-         <Box component={"img"} src="/ORIX.png" alt="ORIX" sx={{width:{sm:"50%" ,xs:"30%"}}}  />
+         <Box component={"img"} src={process.env.PUBLIC_URL +"/ORIX.png"} alt="ORIX" sx={{width:{sm:"50%" ,xs:"30%"}}}  />
       </Box>
         <Box sx={{ textAlign: { xs: "center", md: "left" } }}>
           <Typography variant="h6" sx={{ mb: 2 }}>
