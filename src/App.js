@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Layout from "./components/layout";
 import Home from "./pages/home";
 import Category from "./pages/category";
@@ -12,7 +12,7 @@ import ScrollToTop from "./components/scrollTop";
 export default function App() {
   return (
     <CartProvider>
-      <BrowserRouter>
+      <HashRouter>
         <ScrollToTop/>
           <Routes>
             <Route path="/" element={<Layout />}>
@@ -23,12 +23,11 @@ export default function App() {
                 path=":gender/:category/:productId"
                 element={<Product />}
               />
-              <Route path="bag" element={<Bag />} />
+              <Route path="bag" element={<Bag />}/>
             </Route>
             <Route path="*" element={<Nopage />} />
           </Routes>
-        
-      </BrowserRouter>
+      </HashRouter>
     </CartProvider>
   );
 }

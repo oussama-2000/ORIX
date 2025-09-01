@@ -13,10 +13,14 @@ import {
   CardMedia,
   List,
   ListItem,
+  Dialog,
+  IconButton,
+  useMediaQuery,
 } from "@mui/material";
-import { useParams } from "react-router-dom";
+import CloseIcon from "@mui/icons-material/Close";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-import products from "../products.json"; 
+import products from "../products.json";
+import { useParams } from "react-router-dom";
 import { CartContext } from "../context/CartContext";
 
 const Product = () => {
@@ -27,9 +31,14 @@ const Product = () => {
   const [size, setSize] = useState(null);
   const [quantity, setQuantity] = useState(1);
 
+  const [openDialog, setOpenDialog] = useState(false);
+  const [activeImage, setActiveImage] = useState(null);
+
+  //  Only enable zoom on md and larger screens
+  const isDesktop = useMediaQuery("(min-width:900px)");
+
   const { gender, category, productId } = useParams();
 
-  // Lookup product
   const categoryProducts = products[gender]?.category?.[category];
   const product = categoryProducts?.find(
     (p) => String(p.id) === String(productId)
@@ -46,6 +55,20 @@ const Product = () => {
   }
 
   const selectedColor = product.colors[selectedColorIndex];
+
+  // zoom effect handlers
+  const handleMouseMove = (e) => {
+    const { left, top, width, height } = e.currentTarget.getBoundingClientRect();
+    const x = ((e.pageX - left) / width) * 100;
+    const y = ((e.pageY - top) / height) * 100;
+    e.currentTarget.style.transformOrigin = `${x}% ${y}%`;
+    e.currentTarget.style.transform = "scale(2)";
+  };
+
+  const handleMouseLeave = (e) => {
+    e.currentTarget.style.transformOrigin = "center";
+    e.currentTarget.style.transform = "scale(1)";
+  };
 
   return (
     <Box
@@ -79,6 +102,7 @@ const Product = () => {
                 sx={{
                   width: { xs: "100%", sm: "49%" },
                   borderRadius: 0,
+                  cursor: "pointer",
                 }}
               />
             ) : (
@@ -87,9 +111,16 @@ const Product = () => {
                 component="img"
                 image={media}
                 alt={product.name}
+                onClick={() => {
+                  if (isDesktop) {
+                    setActiveImage(media);
+                    setOpenDialog(true);
+                  }
+                }}
                 sx={{
                   width: { xs: "100%", sm: "49%" },
                   borderRadius: 0,
+                  cursor: isDesktop ? "zoom-in" : "default",
                 }}
               />
             )
@@ -266,7 +297,11 @@ const Product = () => {
                       {product.details.fit_and_sizing.map((item, index) => (
                         <ListItem
                           key={index}
-                          sx={{ display: "list-item", listStyleType: "disc", ml: 2 }}
+                          sx={{
+                            display: "list-item",
+                            listStyleType: "disc",
+                            ml: 2,
+                          }}
                         >
                           <Typography variant="body2">{item}</Typography>
                         </ListItem>
@@ -288,7 +323,11 @@ const Product = () => {
                       {product.details.fabric_and_care.map((item, index) => (
                         <ListItem
                           key={index}
-                          sx={{ display: "list-item", listStyleType: "disc", ml: 2 }}
+                          sx={{
+                            display: "list-item",
+                            listStyleType: "disc",
+                            ml: 2,
+                          }}
                         >
                           <Typography variant="body2">{item}</Typography>
                         </ListItem>
@@ -303,6 +342,90 @@ const Product = () => {
           </Accordion>
         </Box>
       </Box>
+
+      {/* ZOOM DIALOG (only for desktop) */}
+      {isDesktop && (
+        <Dialog
+          open={openDialog}
+          onClose={() => setOpenDialog(false)}
+          maxWidth="xl"
+        >
+          <Box
+            sx={{
+              display: "flex",
+              flexDirection: "row",
+              width: "90vw",
+              height: "98vh",
+            }}
+          >
+            {/* Left thumbnails */}
+            <Box
+              sx={{
+                width: "17%",
+                overflowY: "auto",
+                borderRight: "1px solid #ddd",
+                p: 2,
+                display: "flex",
+                flexDirection: "column",
+                gap: 2,
+              }}
+            >
+              {selectedColor.images &&
+                Object.entries(selectedColor.images).map(([key, media], idx) =>
+                  key !== "video" ? (
+                    <img
+                      key={idx}
+                      src={media}
+                      alt={product.name}
+                      onClick={() => setActiveImage(media)}
+                      style={{
+                        width: "100%",
+                        border:
+                          activeImage === media
+                            ? "2px solid black"
+                            : "1px solid #ccc",
+                        cursor: "pointer",
+                      }}
+                    />
+                  ) : null
+                )}
+            </Box>
+
+            {/* Right main image */}
+            <Box
+              sx={{
+                flex: 1,
+                position: "relative",
+                display: "flex",
+                justifyContent: "center",
+                alignItems: "center",
+                overflow: "hidden",
+                bgcolor: "#000",
+              }}
+            >
+              <IconButton
+                onClick={() => setOpenDialog(false)}
+                sx={{ position: "absolute", top: 10, right: 10, color: "#fff" }}
+              >
+                <CloseIcon />
+              </IconButton>
+              {activeImage && (
+                <img
+                  src={activeImage}
+                  alt="zoomed"
+                  style={{
+                    height:"100%",
+                    cursor:"zoom-in",
+                    transition: "transform 0.2s ease",
+                  }}
+                  onMouseMove={handleMouseMove}
+                  onMouseLeave={handleMouseLeave}
+                />
+              )}
+            </Box>
+          </Box>
+        </Dialog>
+      )}
     </Box>
   );
 };

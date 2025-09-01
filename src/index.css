@@ -6,6 +6,11 @@ body {
     font-family: Helvetica, Arial, Roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  user-select: background-color="red";
+}
+::selection{
+  background-color: black;
+  color: wheat
 }
 
 code {
