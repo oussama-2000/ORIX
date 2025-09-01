@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/oussama-2000/ORIX.git/static/css/main.512e0b0a.css",
-    "main.js": "/oussama-2000/ORIX.git/static/js/main.b35fea97.js",
-    "static/js/453.7fac5d64.chunk.js": "/oussama-2000/ORIX.git/static/js/453.7fac5d64.chunk.js",
-    "static/media/linstone.woff": "/oussama-2000/ORIX.git/static/media/linstone.f8743346b5f2e1ee896e.woff",
-    "index.html": "/oussama-2000/ORIX.git/index.html",
-    "main.512e0b0a.css.map": "/oussama-2000/ORIX.git/static/css/main.512e0b0a.css.map",
-    "main.b35fea97.js.map": "/oussama-2000/ORIX.git/static/js/main.b35fea97.js.map",
-    "453.7fac5d64.chunk.js.map": "/oussama-2000/ORIX.git/static/js/453.7fac5d64.chunk.js.map"
+    "main.css": "/ORIX/static/css/main.a7cb16f2.css",
+    "main.js": "/ORIX/static/js/main.e0471c6e.js",
+    "static/js/453.7fac5d64.chunk.js": "/ORIX/static/js/453.7fac5d64.chunk.js",
+    "static/media/linstone.woff": "/ORIX/static/media/linstone.f8743346b5f2e1ee896e.woff",
+    "index.html": "/ORIX/index.html",
+    "main.a7cb16f2.css.map": "/ORIX/static/css/main.a7cb16f2.css.map",
+    "main.e0471c6e.js.map": "/ORIX/static/js/main.e0471c6e.js.map",
+    "453.7fac5d64.chunk.js.map": "/ORIX/static/js/453.7fac5d64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.512e0b0a.css",
-    "static/js/main.b35fea97.js"
+    "static/css/main.a7cb16f2.css",
+    "static/js/main.e0471c6e.js"
   ]
 }
